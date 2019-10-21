@@ -5,4 +5,4 @@ cards.get('/', (req, res) => {
   res.json(cardsData);
 });
 
-module.exports = cards
+module.exports = cards;
